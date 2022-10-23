@@ -4,7 +4,7 @@ Conforme eu for avançando meus estudos vou compartilhar projetos cada vez mais 
 Você pode me encontrar no instagram: @irmaodofilhodo_caos
 
 <p>Feito com </p>
-<p>&#x1F60E;<p>
+<p>&#x1F60E;<p> por JOHN
     
     
 
