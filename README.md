@@ -6,39 +6,6 @@ Você pode me encontrar no instagram: @irmaodofilhodo_caos
 <p>Feito com </p>
 <p>&#x1F60E;<p> por JOHN
     
-    <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <!--<meta name="viewport" content="width=320px, initial-scale=1.0">-->
-    <meta name=”viewport” content=”width=device-width, initial-scale=1, maximum-scale=1.0">
-    <title>Rap Alma</title>
-
-    <link rel="stylesheet" href="index.css">
-    <!-- <link rel="icon" type="imagem/favicon.ico" href="favicon.ico"> -->
-    <link rel="icon" type="imagem/jpg" href="images-perfil1.jpg">
-
-</head>
-<body>
-    
-    <!--<img src="caparapalma1240x260.jpg" alt="CapaRapAlma" width="1240px" height="260px" 
-    style="vertical-align: top;;margin:10px 50px"> -->
-
-    <!--<img src="images-perfil1.jpg" alt="RapAlmaPerfil" width="100px" height="100px" 
-    style="vertical-align: middle;margin:10px 600px"> -->
-
-       
-           
-        <h1 id="titulorapalma" class="rapalma">RAP ALMA</h1>
-       
-         
-
-
-        
-    
-
-
 
         <P style="text-align: center">
             <h2>Selecione uma musica para tocar</h2>
@@ -85,8 +52,6 @@ Você pode me encontrar no instagram: @irmaodofilhodo_caos
             </div>
         <hr>
         <h2>Feito com &#x1F60E; por JOHN</h2>
-    
-</body>
-</html>
+
 
 
